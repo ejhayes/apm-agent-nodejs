@@ -27,12 +27,14 @@ FILES=( \
   "sourcemaps/payload.json" \
   "spans/span.json" \
   "transactions/mark.json" \
+  "transactions/rum_experience.json" \
   "transactions/transaction.json" \
   "cloud.json" \
   "context.json" \
   "http_response.json" \
   "message.json" \
   "metadata.json" \
+  "outcome.json" \
   "process.json" \
   "request.json" \
   "rum_v3_context.json" \
